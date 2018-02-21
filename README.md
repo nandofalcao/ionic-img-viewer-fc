@@ -20,7 +20,7 @@ Ionic 2 plugin providing a Twitter inspired experience to visualize pictures.
 Make sure you have Ionic and Angular installed.
 
 ```
-npm install --save ionic-img-viewer
+npm install --save ionic-img-viewer-fc
 ```
 
 **For Ionic 2 RC.0 and later:**
@@ -59,4 +59,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Thank you, [contributors]!
 
-[contributors]: https://github.com/Riron/ionic-img-viewer/graphs/contributors
+[contributors]: https://github.com/nandofalcao/ionic-img-viewer-fc/graphs/contributors
